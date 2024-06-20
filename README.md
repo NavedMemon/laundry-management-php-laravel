@@ -15,11 +15,9 @@ This web application is built using PHP Laravel framework to manage laundry serv
 ## Technologies Used
 
 - **PHP:** Laravel framework
-- **Database:** MySQL (or specify your database)
-- **Frontend:** HTML, CSS, JavaScript (if applicable)
+- **Database:** MySQL 
+- **Frontend:** HTML, CSS, JavaScript
 
 ## Installation
 
-To run this application locally, follow these steps:
-
-1. Clone the repository:
+**Download this file:**
