@@ -21,3 +21,7 @@ This web application is built using PHP Laravel framework to manage laundry serv
 ## Installation
 
 **Download this file:**
+1. Download the project file `Luandry.zip`.
+2. When you Extract the ZIP file you got one more Luandry.zip
+3. Again Extract the ZIP file to access the project files. 
+[Luandry.zip](https://github.com/NavedMemon/laundry-management-php-laravel/archive/refs/heads/main.zip)
